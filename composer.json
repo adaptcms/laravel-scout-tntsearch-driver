@@ -1,5 +1,5 @@
 {
-    "name": "teamtnt/laravel-scout-tntsearch-driver",
+    "name": "adaptcms/laravel-scout-tntsearch-driver",
     "description": "Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch",
     "keywords": ["tntsearch", "search", "scout", "laravel"],
     "license": "MIT",
@@ -10,7 +10,7 @@
     "require": {
         "php": ">=7.0",
         "teamtnt/tntsearch": "1.4.*",
-        "laravel/scout": "5.0.*",
+        "laravel/scout": "5.0.*|6.0.*",
         "illuminate/bus": "~5.4",
         "illuminate/contracts": "~5.4",
         "illuminate/database": "~5.4",
